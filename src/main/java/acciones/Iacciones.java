@@ -7,4 +7,8 @@ public interface Iacciones {
       
       
       public abstract void Apagar();
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> rama2

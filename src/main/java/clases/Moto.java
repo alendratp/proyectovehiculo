@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package clases;
 
 import acciones.Iacciones;
@@ -21,3 +22,18 @@ public abstract class Moto extends Vehiculo implements Iacciones{
     
     
 }
+=======
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package clases;
+
+/**
+ *
+ * @author pc14
+ */
+public class Moto {
+    
+}
+>>>>>>> rama2

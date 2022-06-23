@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package clases;
 import interfaces.Acciones;
 public class Camion extends Vehiculo implements Acciones{
@@ -24,4 +25,12 @@ public class Camion extends Vehiculo implements Acciones{
     
     public void frenar(){
         System.out.println("estoy frenando el camion");
+=======
+
+package clases;
+
+
+public class Camion {
+    
+>>>>>>> rama2
 }

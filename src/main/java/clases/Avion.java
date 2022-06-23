@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package clases;
 import acciones.Acciones;
  public class Avion extends Vehiculo implements Acciones{
@@ -29,4 +30,11 @@ import acciones.Acciones;
     public void apagar() {
         System.out.println("");
     } 
+=======
+
+package clases;
+
+public class Avion {
+    
+>>>>>>> rama2
 }
